@@ -1,0 +1,23 @@
+[
+  {
+    "description": "  Everybody wants to know when it's Friday",
+    "keyword": "Feature",
+    "name": "Is it Friday yet?",
+    "line": 1,
+    "id": "is-it-friday-yet?",
+    "tags": [],
+    "uri": "features/is_it_friday_yet.feature",
+    "elements": [
+      {
+        "description": "    Given('today is Sunday', function () {\n      // Write code here that turns the phrase above into concrete actions\n      return 'pending';\n    });\n    When('I ask whether it\\'s Friday yet', function () {\n      // Write code here that turns the phrase above into concrete actions\n      return 'pending';\n    });\n    Then('I should be told {string}', function (string) {\n      // Write code here that turns the phrase above into concrete actions\n      return 'pending';\n    });",
+        "id": "is-it-friday-yet?;sunday-isn't-friday",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Sunday isn't Friday",
+        "tags": [],
+        "type": "scenario",
+        "steps": []
+      }
+    ]
+  }
+]
